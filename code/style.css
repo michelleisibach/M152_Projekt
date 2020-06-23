@@ -6,6 +6,10 @@
     text-align: center;
 }
 
+a:hover {
+    color: gold;
+}
+
 .sep {
     height: 6em;
 }
@@ -61,12 +65,13 @@ a {
 }
 
 #section-b {
-    height: 35em;
+    height: 40%;
+    width: 100%;
 }
 
 .section-b-img {
     width: 30%;
-    height: 20em;
+    height: 100%;
     top: 5em;
 }
 
@@ -95,5 +100,9 @@ a {
 
 .footer-list-text:hover {
     color: white;
-    background: black;
+    background: gold;
+}
+
+.imagecontent {
+    width: 50%;
 }
