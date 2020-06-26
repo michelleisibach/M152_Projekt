@@ -240,3 +240,7 @@ fieldset {
 :-ms-input-placeholder {
     color: #888;
 }
+
+#svg {
+    width: 10%;
+}
